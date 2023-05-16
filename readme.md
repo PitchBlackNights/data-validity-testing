@@ -1,6 +1,6 @@
 # Data Validity Testing
 
-Rust implementations of various data validity testers.
+Rust implementation of various data validity testers.
 
 ## Implemented Data Validity Testing Functions
 
